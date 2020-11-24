@@ -77,7 +77,7 @@ def photo():
                   </head>
                   <body>
                     <h1>Фото</h1>
-                    <img src = {url_for('static', filename='img/koala.jpg')} width = 75% />
+                    <img src = {url_for('static', filename='img/Koala.jpg')} width = 75% />
                   </body>
                 </html>"""
 
